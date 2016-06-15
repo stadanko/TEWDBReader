@@ -1,0 +1,20 @@
+[12-Jun-2016 16:11:36 America/New_York] PHP Warning:  include(login.php): failed to open stream: No such file or directory in /home/jncnrina/public_html/test/index.php on line 3
+[12-Jun-2016 16:11:36 America/New_York] PHP Warning:  include(login.php): failed to open stream: No such file or directory in /home/jncnrina/public_html/test/index.php on line 3
+[12-Jun-2016 16:11:36 America/New_York] PHP Warning:  include(): Failed opening 'login.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/jncnrina/public_html/test/index.php on line 3
+[12-Jun-2016 16:13:17 America/New_York] PHP Warning:  include(login.php): failed to open stream: No such file or directory in /home/jncnrina/public_html/test/index.php on line 3
+[12-Jun-2016 16:13:17 America/New_York] PHP Warning:  include(login.php): failed to open stream: No such file or directory in /home/jncnrina/public_html/test/index.php on line 3
+[12-Jun-2016 16:13:17 America/New_York] PHP Warning:  include(): Failed opening 'login.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/jncnrina/public_html/test/index.php on line 3
+[12-Jun-2016 16:13:21 America/New_York] PHP Warning:  include(login.php): failed to open stream: No such file or directory in /home/jncnrina/public_html/test/index.php on line 3
+[12-Jun-2016 16:13:21 America/New_York] PHP Warning:  include(login.php): failed to open stream: No such file or directory in /home/jncnrina/public_html/test/index.php on line 3
+[12-Jun-2016 16:13:21 America/New_York] PHP Warning:  include(): Failed opening 'login.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/jncnrina/public_html/test/index.php on line 3
+[12-Jun-2016 16:43:24 America/New_York] PHP Fatal error:  Call to undefined function odbc_connect() in /home/jncnrina/public_html/test/index.php on line 10
+[12-Jun-2016 16:44:20 America/New_York] PHP Fatal error:  Call to undefined function odbc_connect() in /home/jncnrina/public_html/test/index.php on line 10
+[12-Jun-2016 16:44:50 America/New_York] PHP Fatal error:  Call to undefined function odbc_connect() in /home/jncnrina/public_html/test/index.php on line 10
+[12-Jun-2016 16:45:09 America/New_York] PHP Fatal error:  Call to undefined function odbc_connect() in /home/jncnrina/public_html/test/index.php on line 10
+[12-Jun-2016 16:45:34 America/New_York] PHP Fatal error:  Call to undefined function odbc_connect() in /home/jncnrina/public_html/test/index.php on line 10
+[12-Jun-2016 16:46:57 America/New_York] PHP Fatal error:  Call to undefined function odbc_connect() in /home/jncnrina/public_html/test/index.php on line 10
+[12-Jun-2016 17:01:28 America/New_York] PHP Fatal error:  Call to undefined function odbc_connect() in /home/jncnrina/public_html/test/index.php on line 10
+[12-Jun-2016 17:21:07 America/New_York] PHP Fatal error:  Call to undefined function odbc_connect() in /home/jncnrina/public_html/test/index.php on line 10
+[12-Jun-2016 17:21:32 America/New_York] PHP Fatal error:  Call to undefined function odbc_exec() in /home/jncnrina/public_html/test/index.php on line 15
+[12-Jun-2016 17:22:07 America/New_York] PHP Fatal error:  Call to undefined function odbc_connect() in /home/jncnrina/public_html/test/index.php on line 10
+[12-Jun-2016 17:46:23 America/New_York] PHP Parse error:  syntax error, unexpected ',' in /home/jncnrina/public_html/test/index.php on line 10

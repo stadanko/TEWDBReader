@@ -1,0 +1,55 @@
+.navbar-brand {
+ 	 
+	font-size:1.8em;
+	
+}
+ 
+.blue {
+ 
+ 	color:#357EBD;
+
+}
+ 
+.white {
+ 
+ 	color:white;
+ 
+}
+ 
+.error {
+	 
+	color:#FF1818;
+	font-size:1.8em;
+	 
+}
+
+.bold {
+	
+	font-weight:bold;
+
+}
+
+.table-tr:hover {
+	
+	cursor: pointer;
+	
+}
+
+#content {
+ 	 
+	margin:50px 0 100px 0;
+	text-align:center;
+
+}
+ 	 	
+#content h2 {
+
+	margin: 50px;
+	
+}
+
+th {
+ 
+ 	text-align:center;
+ 
+}
